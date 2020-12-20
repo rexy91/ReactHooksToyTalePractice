@@ -5,3 +5,6 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+
+Toy.create(name:'elephant', pic_url:'https://images-na.ssl-images-amazon.com/images/I/81HBt%2Boti5L._AC_SL1500_.jpg')
